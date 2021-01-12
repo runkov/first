@@ -1,6 +1,6 @@
 # runkoff
 def my_superfunction():
-    print('What an awesome print!')
+    print('newBranch')
 
 
 def main():
