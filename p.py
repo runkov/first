@@ -8,7 +8,7 @@ def main():
     print('Again')
     print('UFO came and added this line')
     if True:
-        print(1234)
+        print(2)
     my_superfunction()
 
 
